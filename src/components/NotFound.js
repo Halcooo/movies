@@ -7,12 +7,12 @@ export class NotFound extends Lightning.Component {
         rect: true,
         w: 1920,
         h: 1080,
-        color: 0xfffb2d2d,
+        color: 0xffcb8d2d,
       },
       Title: {
         mount: 0.5,
         x: 960,
-        y: 50,
+        y: 540,
         text: {
           text: "404 - Not Found",
           fontSize: 64,
